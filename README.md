@@ -1,4 +1,4 @@
-## asm Lab 1
+## Lab 1 (FASM)
 
 ### Task:
 
